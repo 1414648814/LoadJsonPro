@@ -1,0 +1,12 @@
+[{"id":1,
+"reDrawCount":1,
+"consumeType":2,
+"num":1000},
+{"id":2,
+"reDrawCount":2,
+"consumeType":1,
+"num":10},
+{"id":3,
+"reDrawCount":3,
+"consumeType":1,
+"num":50}]
